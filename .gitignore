@@ -1,0 +1,3 @@
+#Ignore .RData and .DS_Store
+*.RData
+*.DS_Store
